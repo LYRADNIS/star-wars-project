@@ -1,6 +1,8 @@
 import { combineReducers } from 'redux';
-import exampleReducer from './reducer.exampleReducer.js';
+import person from './reducer.person.js';
+import homeworld from './reducer.homeworld.js';
 
 export default combineReducers({
-    exampleReducer
+    person,
+    homeworld
 });

@@ -1,11 +1,10 @@
 const INITIAL_STATE = {
-    state1: 'Hello',
-    state2: 'World'
+    name: 'API NOT FIRED'
 };
 
 export default (state = INITIAL_STATE, action) => {
     switch (action.type) {
-        case 'PLACEHOLDER_ACTION':
+        case 'PERSON/GET_PERSON':
             return action.payload;
 
         default:
