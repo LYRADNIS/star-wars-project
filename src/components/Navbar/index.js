@@ -8,9 +8,6 @@ const navlinks = [{
 }, {
     to: '/about',
     display: 'About'
-}, {
-    to: '/react',
-    display: 'React'
 }];
 
 export default () =>

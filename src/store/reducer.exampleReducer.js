@@ -1,4 +1,7 @@
-const INITIAL_STATE = {};
+const INITIAL_STATE = {
+    state1: 'Hello',
+    state2: 'World'
+};
 
 export default (state = INITIAL_STATE, action) => {
     switch (action.type) {

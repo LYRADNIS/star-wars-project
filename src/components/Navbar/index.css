@@ -1,11 +1,9 @@
 .nav-link {
     text-decoration: none;
-    color: gold;
     font-size: 20px;
 }
 
 .selected-nav-link {
-    color: lightblue;
     font-weight: bold;
 }
 

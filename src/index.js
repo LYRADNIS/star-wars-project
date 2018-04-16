@@ -8,7 +8,6 @@ import './index.css';
 import store from './store';
 
 // features
-import ReactPage from './features/ReactPage';
 import About from './features/About';
 import Home from './features/Home';
 
@@ -23,7 +22,6 @@ render(
                 <Switch>
                     <Route exact path="/" component={ Home }></Route>
                     <Route exact path="/about" component={ About }></Route>
-                    <Route exact path="/react" component={ ReactPage }></Route>
                 </Switch>
             </main>
         </BrowserRouter>

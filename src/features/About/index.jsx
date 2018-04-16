@@ -1,4 +1,6 @@
 import React from 'react';
 
 export default () =>
-    <div>FILL THIS IN</div>
+    <h1 style={{textAlign: 'center'}}>
+        REPLACE HERE
+    </h1>
