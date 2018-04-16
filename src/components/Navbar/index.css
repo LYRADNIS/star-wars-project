@@ -1,0 +1,17 @@
+.nav-link {
+    text-decoration: none;
+    color: gold;
+    font-size: 20px;
+}
+
+.selected-nav-link {
+    color: lightblue;
+    font-weight: bold;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+}
