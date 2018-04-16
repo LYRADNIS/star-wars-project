@@ -6,8 +6,8 @@
 
 
 ## Instructions:
-What has been provided is a simplified react/redux scaffolded mini-project. <br>
-Don't delete any existing files, but you are encouraged to replace and add whatever (including files) you need to complete the task. <br>
+What has been provided is a partially-complete and simplified react/redux scaffolded mini-project. <br>
+Don't delete any existing files, but you are encouraged to replace and add whatever logic (and files) you need to complete the task. <br>
 
 1. Using the provided axios http service, make an GET request to https://swapi.co/api/people/
 2. Select a random person and store their data into our redux stores
