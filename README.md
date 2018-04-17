@@ -8,7 +8,7 @@
 ## Instructions:
 What has been provided is a partially-complete and simplified react/redux scaffolded mini-project. <br>
 Don't delete any existing files, but you are encouraged to replace and add whatever logic (and files) you need to complete the task. <br>
-https://github.com/axios/axios
+You may use axios, an http client to help in your task (https://github.com/axios/axiosX).
 
 1. When the app initializes, dispatch an action to fetch from https://swapi.co/api/people/.
 2. You'll receive a list, from which you'll need to choose a single person at random (and store that into redux).
