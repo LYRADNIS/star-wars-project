@@ -1,4 +1,4 @@
-# Zibby Account Portal
+# Star Wars Project
 
 ## Scripts
 - `npm install` or `yarn`
